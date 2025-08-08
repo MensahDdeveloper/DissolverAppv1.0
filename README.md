@@ -15,15 +15,23 @@ DissolveApp v1.0 is a powerful Windows app that lets you instantly view the cont
 
 🎯 Ideal For:
 
-Students organizing school folders
+              Students organizing school folders
 
-Professionals managing large project directories
+              Professionals managing large project directories
 
-Developers exploring complex file structures
+              Developers exploring complex file structures
 
-Creatives browsing photos, videos, or documents
+              Creatives browsing photos, videos, or documents
 
-Everyone who uses a Windows PC
+              Everyone who uses a Windows PC
 
 <img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/d4a47bd5-0f58-4381-acf9-af4e649db5c3" />
+
+<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/43db67d2-08bc-4b61-a840-fbda47a35e6d" />
+
+<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/5f8aa103-bfbc-42ce-8101-941d4168dfc8" />
+
+<img width="1365" height="732" alt="4" src="https://github.com/user-attachments/assets/678dd024-0a8b-4f48-9e6d-4f4f94150e73" />
+
+
 
